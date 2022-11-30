@@ -6,7 +6,7 @@
 # Forums & Community Support
 [Intel Communities](https://community.intel.com/) 
 # Network Calculus, TCP/IP, Smart Grid Technologies by EPFL
-[EPFL Lectures](https://www.youtube.com/channel/UC0agxA1NtHForSgxtKoFkGQ/playlists) 
+[EPFL Lectures](https://www.youtube.com/channel/UC0agxA1NtHForSgxtKoFkGQ/playlists) \
 [Extra Sources from ETHZ](https://comm-net.ethz.ch/) 
 
 
